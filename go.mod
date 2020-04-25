@@ -1,3 +1,3 @@
-module github.com/benjivesterby/delim
+module github.com/devnw/delim
 
-go 1.13
+go 1.14
